@@ -1,0 +1,38 @@
++ ambulatory-medical-care
+  + emergency-department-visits
+  + utilization-estimates
++ births
+  + 2019
++ body
+  + composition
+  + hand-preference
+  + measurements
++ criteria
+  + education
+  + geographic-region
+  + income
+  + marital-status
+  + population-density
+  + poverty
+- deaths
+  + 1900
+  + 2000
+  + 2019
++ development
+  + developmental-milestones
+  + positive-parenting
++ dietary
++ diseases-conditions
++ estimated-population
+  + 1900
+  (- NEED MORE)
++ vital-signs
+  + blood-pressure
+  + respiratory-rates
+  + resting-pulse-rate
+  + sleeping
+
+-----------------
+Legends :
+- : todo converting *.csv to *.txt 
++ : done converting *.csv to *.txt
