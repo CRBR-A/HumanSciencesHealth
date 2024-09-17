@@ -1,0 +1,24 @@
+| Primary part of body injured | Min  | Max  |
+| ---------------------------- | ---- | ---- |
+| Arm/Hand                     | 19.5 | 35.2 |
+| Head/Neck                    | 16.9 | 28.6 |
+| Leg/Foot                     | 15.5 | 25.1 |
+| Upper trunk                  | 10.8 | 20.2 |
+| Lower trunk                  | 8.6  | 18.8 |
+| Other/Unknown                | \-   | \-   |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Cats
+  topic: primary-part-of-body-injured (confidence-interval)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./confidence-interval.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

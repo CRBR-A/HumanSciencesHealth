@@ -1,0 +1,28 @@
+| Age   | Average annual estimate |
+| ----- | ----------------------- |
+| Total | 10130                   |
+| 0–14  | 954                     |
+| 15–24 | 776                     |
+| 25–34 | 1208                    |
+| 35–44 | 1733                    |
+| 45–54 | 1711                    |
+| 55–64 | 1238                    |
+| 65–74 | 760                     |
+| 75–84 | 1173                    |
+| \>85  | 577                     |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Cats
+  topic: age (average-annual-estimate)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./average-annual-estimate.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

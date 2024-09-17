@@ -1,0 +1,29 @@
+| Activity              | Min  | Max  |
+| --------------------- | ---- | ---- |
+| Walking pet           | 20.5 | 31.6 |
+| Caring for pet        | 3.6  | 6.8  |
+| Playing with pet      | 3.3  | 5.5  |
+| Chasing pet           | 4.0  | 5.9  |
+| Running from pet      | 2.6  | 3.7  |
+| Running with pet      | 0.9  | 1.7  |
+| Breaking up pet fight | 0.3  | 0.9  |
+| Stepping over pet     | \-   | \-   |
+| Attacked by pet       | 0.2  | 0.5  |
+| Other                 | 5.8  | 9.0  |
+| Unknown               | 37.7 | 54.5 |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Dogs
+  topic: activity (confidence-interval)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./confidence-interval.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

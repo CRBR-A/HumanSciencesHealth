@@ -1,0 +1,29 @@
+| Age   | Number |
+| ----- | ------ |
+| Total | 368245 |
+| 0–4   | 49153  |
+| 5–9   | 56146  |
+| 10–14 | 49326  |
+| 15–19 | 27820  |
+| 20–24 | 26181  |
+| 25–34 | 45133  |
+| 35–44 | 46658  |
+| 45–54 | 32613  |
+| 55–64 | 16185  |
+| \>65  | 19005  |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: Age (number)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./number.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

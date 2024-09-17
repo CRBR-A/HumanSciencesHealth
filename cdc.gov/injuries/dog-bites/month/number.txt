@@ -1,0 +1,31 @@
+| Treatment month | Number |
+| --------------- | ------ |
+| Total           | 368245 |
+| January         | 21994  |
+| February        | 24945  |
+| March           | 27511  |
+| April           | 36108  |
+| May             | 34284  |
+| June            | 34742  |
+| July            | 40828  |
+| August          | 34716  |
+| September       | 32983  |
+| October         | 27372  |
+| November        | 25011  |
+| December        | 27749  |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: Treatment month (number)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./number.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

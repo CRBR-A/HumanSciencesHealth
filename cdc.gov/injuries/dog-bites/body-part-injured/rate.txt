@@ -1,0 +1,42 @@
+| Body part injured               | Rate  |
+| ------------------------------- | ----- |
+| Total                           | 129.3 |
+| Head/Neck                       | 29.5  |
+| Face                            | 19.6  |
+| Mouth                           | 6     |
+| Ear                             | 1.9   |
+| Head                            | 1.3   |
+| Other(neck/eyeball)             | 0.7   |
+| Upper trunk (includes shoulder) | 1.8   |
+| Lower trunk                     | 5.1   |
+| Arm/Hand                        | 58.6  |
+| Hand                            | 23.5  |
+| Lower arm                       | 16    |
+| Finger                          | 12.2  |
+| Upper arm                       | 3     |
+| Wrist                           | 2.8   |
+| Elbow                           | 1     |
+| Leg/Foot                        | 33.3  |
+| Lower leg                       | 19.1  |
+| Upper leg                       | 8.9   |
+| Knee                            | 1.9   |
+| Foot/Toe                        | 1.8   |
+| Ankle                           | 1.7   |
+| Other                           | \-    |
+| Unknown                         | \-    |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: body-part injured (rate)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./rate.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

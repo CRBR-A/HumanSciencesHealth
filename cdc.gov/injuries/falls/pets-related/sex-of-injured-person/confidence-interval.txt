@@ -1,0 +1,22 @@
+| Sex of injured person | Min  | Max  |
+| --------------------- | ---- | ---- |
+| Total                 | 24.5 | 34.8 |
+| Male                  | 15.6 | 22.1 |
+| Female                | 33.0 | 47.3 |
+| Unspecified           | \-   | \-   |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Pets
+  topic: sex-of-injured-person (confidence-interval)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./confidence-interval.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

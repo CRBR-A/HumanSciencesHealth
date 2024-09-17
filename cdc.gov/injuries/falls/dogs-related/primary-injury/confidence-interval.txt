@@ -1,0 +1,25 @@
+| Primary injury diagnosis | Min  | Max  |
+| ------------------------ | ---- | ---- |
+| Total                    | 21.7 | 30.5 |
+| Fracture                 | 6.5  | 9.6  |
+| Contusions/Abrasions     | 5.7  | 8.0  |
+| Strain/Sprain            | 4.0  | 5.7  |
+| Laceration               | 2.7  | 4.1  |
+| Internal injury          | 0.7  | 1.5  |
+| Other/Unknown            | 1.4  | 2.3  |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Dogs
+  topic: primary-injury (confidence-interval)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./confidence-interval.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

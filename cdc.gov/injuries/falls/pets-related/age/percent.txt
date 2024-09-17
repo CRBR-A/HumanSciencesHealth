@@ -1,0 +1,28 @@
+| Age   | Percent |
+| ----- | ------- |
+| Total | 100     |
+| 0–14  | 15.6    |
+| 15–24 | 7.4     |
+| 25–34 | 10.7    |
+| 35–44 | 14.6    |
+| 45–54 | 15.9    |
+| 55–64 | 11.7    |
+| 65–74 | 10.1    |
+| 75–84 | 10.2    |
+| \>85  | 3.9     |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Pets
+  topic: age (percent)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./percent.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

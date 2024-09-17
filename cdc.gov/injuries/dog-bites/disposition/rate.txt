@@ -1,0 +1,22 @@
+| Disposition                       | Rate  |
+| --------------------------------- | ----- |
+| Total                             | 129.3 |
+| Treated and released              | 127   |
+| Hospitalized/Observed/Transferred | 2.1   |
+| Unknown                           | \-    |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: Disposition  (rate)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./rate.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

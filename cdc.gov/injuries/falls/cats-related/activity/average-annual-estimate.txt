@@ -1,0 +1,30 @@
+| Activity              | Average annual estimate |
+| --------------------- | ----------------------- |
+| Total                 | 10130                   |
+| Walking pet           | 40                      |
+| Caring for pet        | 923                     |
+| Playing with pet      | 232                     |
+| Chasing pet           | 1182                    |
+| Running from pet      | 43                      |
+| Running with pet      | 0                       |
+| Breaking up pet fight | 18                      |
+| Stepping over pet     | 245                     |
+| Attacked by pet       | 20                      |
+| Other                 | 1140                    |
+| Unknown               | 6287                    |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Cats
+  topic: activity (average-annual-estimate)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./average-annual-estimate.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

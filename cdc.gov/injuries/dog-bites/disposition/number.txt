@@ -1,0 +1,22 @@
+| Disposition                       | Number |
+| --------------------------------- | ------ |
+| Total                             | 368245 |
+| Treated and released              | 361692 |
+| Hospitalized/Observed/Transferred | 5921   |
+| Unknown                           | 631    |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: Disposition  (number)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./number.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

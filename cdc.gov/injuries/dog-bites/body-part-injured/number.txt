@@ -1,0 +1,42 @@
+| Body part injured               | Number |
+| ------------------------------- | ------ |
+| Total                           | 368245 |
+| Head/Neck                       | 83946  |
+| Face                            | 55867  |
+| Mouth                           | 17029  |
+| Ear                             | 5475   |
+| Head                            | 3669   |
+| Other(neck/eyeball)             | 1906   |
+| Upper trunk (includes shoulder) | 5036   |
+| Lower trunk                     | 14432  |
+| Arm/Hand                        | 166756 |
+| Hand                            | 66969  |
+| Lower arm                       | 45482  |
+| Finger                          | 34787  |
+| Upper arm                       | 8645   |
+| Wrist                           | 8029   |
+| Elbow                           | 2843   |
+| Leg/Foot                        | 94848  |
+| Lower leg                       | 54388  |
+| Upper leg                       | 25379  |
+| Knee                            | 5317   |
+| Foot/Toe                        | 5063   |
+| Ankle                           | 4700   |
+| Other                           | 2328   |
+| Unknown                         | 899    |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: body-part injured (number)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./number.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

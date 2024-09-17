@@ -1,0 +1,25 @@
+| Primary part of body injured | Average annual estimate |
+| ---------------------------- | ----------------------- |
+| Total                        | 76223                   |
+| Arm/Hand                     | 20421                   |
+| Head/Neck                    | 18089                   |
+| Leg/Foot                     | 19047                   |
+| Upper trunk                  | 10271                   |
+| Lower trunk                  | 8110                    |
+| Other/Unknown                | 285                     |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Dogs
+  topic: primary-part-of-body-injured (average-annual-estimate)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./average-annual-estimate.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

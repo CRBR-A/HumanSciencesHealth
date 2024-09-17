@@ -1,0 +1,25 @@
+| Primary injury diagnosis | Percent |
+| ------------------------ | ------- |
+| Total                    | 100     |
+| Fracture                 | 30.8    |
+| Contusions/Abrasions     | 26.3    |
+| Strain/Sprain            | 18.5    |
+| Laceration               | 13      |
+| Internal injury          | 4.3     |
+| Other/Unknown            | 7.1     |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Dogs
+  topic: primary-injury (percent)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./percent.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

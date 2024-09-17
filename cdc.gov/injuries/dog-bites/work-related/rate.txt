@@ -1,0 +1,22 @@
+| Work-related | Rate  |
+| ------------ | ----- |
+| Total        | 129.3 |
+| Yes          | 5.8   |
+| No           | 123.1 |
+| Unknown      | \-    |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: work-related (rate)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./rate.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

@@ -1,0 +1,26 @@
+| Diagnosis                   | Rate  |
+| --------------------------- | ----- |
+| Total                       | 129.3 |
+| Contusion/Abrasion/Hematoma | 7.7   |
+| Laceration                  | 31.9  |
+| Puncture                    | 52    |
+| Fracture/Dislocation        | 0.5   |
+| Amputation/Avulsion/Crush   | 1     |
+| Cellulitis/Infection        | 2     |
+| Unspecified dog bite/Other  | 34.2  |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: diagnosis  (rate)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./rate.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

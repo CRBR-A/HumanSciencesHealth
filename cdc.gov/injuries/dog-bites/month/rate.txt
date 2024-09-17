@@ -1,0 +1,31 @@
+| Treatment month | Rate  |
+| --------------- | ----- |
+| Total           | 129.3 |
+| January         | 7.7   |
+| February        | 8.8   |
+| March           | 9.7   |
+| April           | 12.7  |
+| May             | 12    |
+| June            | 12.2  |
+| July            | 14.3  |
+| August          | 12.2  |
+| September       | 11.6  |
+| October         | 9.6   |
+| November        | 8.8   |
+| December        | 9.7   |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: Treatment month (rate)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./rate.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

@@ -1,0 +1,31 @@
+| Treatment month | Min   | Max   |
+| --------------- | ----- | ----- |
+| Total           | 115.9 | 142.7 |
+| January         | 5.7   | 9.7   |
+| February        | 6.4   | 11.1  |
+| March           | 7.3   | 12.1  |
+| April           | 10.1  | 15.3  |
+| May             | 9.8   | 14.2  |
+| June            | 11.3  | 13.1  |
+| July            | 11.3  | 17.4  |
+| August          | 10.9  | 13.5  |
+| September       | 9.6   | 13.6  |
+| October         | 7.3   | 11.9  |
+| November        | 7.2   | 10.4  |
+| December        | 7.9   | 11.6  |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: Treatment month (confidence-interval)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./confidence-interval.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

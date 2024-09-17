@@ -1,0 +1,28 @@
+| Age   | Average annual rate |
+| ----- | ------------------- |
+| Total | 29.7                |
+| 0–14  | 22.2                |
+| 15–24 | 15.5                |
+| 25–34 | 23.2                |
+| 35–44 | 28.6                |
+| 45–54 | 33.3                |
+| 55–64 | 35.6                |
+| 65–74 | 47.3                |
+| 75–84 | 68.8                |
+| \>85  | 70.6                |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Pets
+  topic: age (average-annual-rate)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./average-annual-rate.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

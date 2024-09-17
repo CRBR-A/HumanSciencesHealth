@@ -1,0 +1,26 @@
+| Diagnosis                   | Number |
+| --------------------------- | ------ |
+| Total                       | 368245 |
+| Contusion/Abrasion/Hematoma | 22016  |
+| Laceration                  | 90926  |
+| Puncture                    | 148180 |
+| Fracture/Dislocation        | 1386   |
+| Amputation/Avulsion/Crush   | 2854   |
+| Cellulitis/Infection        | 5559   |
+| Unspecified dog bite/Other  | 97324  |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: diagnosis  (number)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./number.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

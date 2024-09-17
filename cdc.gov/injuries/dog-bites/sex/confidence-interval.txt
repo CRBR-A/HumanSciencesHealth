@@ -1,0 +1,21 @@
+| Sex    | Min   | Max   |
+| ------ | ----- | ----- |
+| Total  | 115.9 | 142.7 |
+| Male   | 126.5 | 163.5 |
+| Female | 103.8 | 124.5 |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: sex (confidence-interval)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./confidence-interval.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

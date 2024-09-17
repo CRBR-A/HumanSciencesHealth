@@ -1,0 +1,24 @@
+| Circumstances            | Average annual estimate |
+| ------------------------ | ----------------------- |
+| Total                    | 76223                   |
+| Fell or tripped over pet | 23886                   |
+| Pushed or pulled by pet  | 16137                   |
+| Fell over pet item       | 6731                    |
+| Other                    | 12573                   |
+| Unknown                  | 16895                   |
+
+---
+current:
+  subject: Nonfatal Fall-Related Injuries Associated with Dogs
+  topic: circumstances (average-annual-estimate)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Fall-Related Injuries Associated with Dogs and Cats - United States, 2001–2006
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5811.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./average-annual-estimate.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...

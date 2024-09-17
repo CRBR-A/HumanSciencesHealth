@@ -1,0 +1,26 @@
+| Diagnosis                   | Min   | Max   |
+| --------------------------- | ----- | ----- |
+| Total                       | 115.9 | 142.7 |
+| Contusion/Abrasion/Hematoma | 5.7   | 9.7   |
+| Laceration                  | 27.3  | 36.5  |
+| Puncture                    | 34.1  | 70.0  |
+| Fracture/Dislocation        | 0.2   | 0.8   |
+| Amputation/Avulsion/Crush   | 0.7   | 1.4   |
+| Cellulitis/Infection        | 1.0   | 2.9   |
+| Unspecified dog bite/Other  | 20.4  | 48.0  |
+
+---
+current:
+  subject: Nonfatal Dog Bite–Related Injuries
+  topic: diagnosis  (confidence-interval)
+  source: 
+    author: Centers for Disease Control and Prevention (CDC)
+    title: Nonfatal Dog Bite–Related Injuries Treated in Hospital Emergency Departments - United States, 2001
+    url: https://www.cdc.gov/mmwr/pdf/wk/mm5226.pdf
+    license: All material [...] is in the public domain and may be used and reprinted without permission; citation as to source, however, is appreciated.
+  file:
+    url: <./confidence-interval.txt>
+    license: public domain in the U.S.
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+...
